@@ -19,43 +19,29 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 
 ### 2. MARCO TEÓRICO
 
-**2.1 Capítulo 5: Circuitos en serie**
+**2.1 Capítulo 7: Circuitos en serie-paralelo**
 
-**2.1.1 Resistores en serie**
+**2.1.1 Identificación de relaciones en serie-paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/202933943-b2ee0179-c054-4e6b-8b9b-8bca6cbd4f31.png)
+![image](https://user-images.githubusercontent.com/116696484/206745687-bfb14521-4dea-4a23-a191-aaf7146d4dc8.png)
 
-**2.1.2 Corriente en un circuito en serie**
+**2.1.2 Análisis de circuitos resistivos en serie-paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/202934861-692a8c02-7f22-4f80-9f95-3c5a47155d07.png)
 
-**2.1.4 Aplicación de la ley de Ohm**
+**2.1.4 Divisores de voltaje con cargas resistivas**
 
-![image](https://user-images.githubusercontent.com/116696484/202935783-2d0a6cd5-bc32-463a-8f10-b80a65a0989a.png)
 
-**2.1.5 Fuentes de voltaje en serie**
+**2.1.5 Efecto de carga de un voltímetro**
 
-![image](https://user-images.githubusercontent.com/116696484/202937765-301680c0-4e78-41bc-bf33-54d29bdd62f0.png)
 
-**2.1.6 Ley de voltaje de Kirchhoff**
+**2.1.6 Redes en escalera**
 
-![image](https://user-images.githubusercontent.com/116696484/202937896-50686043-a2d4-4dd6-a641-34163b3ebddc.png)
 
-**2.1.7 Divisores de voltaje**
+**2.1.7 El puente Wheatstone**
 
-![image](https://user-images.githubusercontent.com/116696484/202942983-84f12958-3e3f-4c76-a08e-8f318033c02c.png)
 
-**2.1.8 Potencia en ciruitos en serie**
+**2.1.8 Localización de fallas**
 
-![image](https://user-images.githubusercontent.com/116696484/202943985-ab9f169f-0174-45f3-acdb-4abd88d6041a.png)
-
-**2.1.9 Mediciones de voltaje**
-
-![image](https://user-images.githubusercontent.com/116696484/202948496-3df6dac6-981c-4f34-a6ae-d5bc6612e5d5.png)
-
-**2.1.10 Localización de fallas**
-
-![image](https://user-images.githubusercontent.com/116696484/202952744-8d3f7fdb-a12f-44f3-824f-b203588dcfab.png)
 
 **2.2 Capítulo 5: Circuitos en paralelo**
 
