@@ -43,35 +43,30 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 **2.1.8 Localización de fallas**
 
 
-**2.2 Capítulo 5: Circuitos en paralelo**
+**2.2 Capítulo 8: Teoremas de circuitos y conversiones**
 
-**2.2.1 Resistores en paralelo**
+**2.2.1 La fuente de voltaje de cd**
 
-![image](https://user-images.githubusercontent.com/116696484/203859542-de5c9b39-f768-4a6c-a1cd-2fddd70aa5e4.png)
 
-**2.2.2 Voltaje en un circuito en paralelo**
+**2.2.2 La fuente de corriente**
 
-![image](https://user-images.githubusercontent.com/116696484/203860048-a73d01a3-0722-4ff0-889e-f62f90681efb.png)
 
-**2.2.3 Ley de las corrientes de Kirchhoff**
+**2.2.3 Conversiones de fuente**
 
-![image](https://user-images.githubusercontent.com/116696484/203860168-5c7c2d0b-3235-4c8a-a1b0-4b807031761f.png)
 
-**2.2.4 Resistencia total en paralelo**
+**2.2.4 El teorema de superposición**
 
-![image](https://user-images.githubusercontent.com/116696484/203861106-fbcef3d5-e4ab-4307-85f5-737b92242659.png)
 
-**2.2.5 Fuentes de corriente en paralelo**
+**2.2.5 Teorema de Thevenin**
 
-![image](https://user-images.githubusercontent.com/116696484/203861685-a4a65a8c-5bb9-4ac8-b268-181d4fcb7799.png)
 
-**2.2.6 Divisores de corriente**
+**2.2.6 Teorema de Norton**
 
-![image](https://user-images.githubusercontent.com/116696484/203862912-8e593ff1-14d4-4361-8502-5031f86ad8b9.png)
 
-**2.2.7 Potencia en circuitos en paralelo** 
+**2.2.7 Teorema de transferencia de potencia máxima** 
 
-![image](https://user-images.githubusercontent.com/116696484/203864131-72f4cb23-daaa-4b2a-b338-e20a9b678cbe.png)
+
+**2.2.8 Conversiones delta a Y y Y a delta** 
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
