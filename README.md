@@ -27,6 +27,7 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 
 **2.1.2 Análisis de circuitos resistivos en serie-paralelo**
 
+![image](https://user-images.githubusercontent.com/116696484/206757446-2cea512f-75aa-463a-bb58-8b9616ea460b.png)
 
 **2.1.4 Divisores de voltaje con cargas resistivas**
 
