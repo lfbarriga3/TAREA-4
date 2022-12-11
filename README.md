@@ -57,20 +57,27 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 
 **2.2.3 Conversiones de fuente**
 
+![image](https://user-images.githubusercontent.com/116696484/206923598-5acb328a-06af-4926-b5dc-04bc03a311c8.png)
 
 **2.2.4 El teorema de superposición**
 
+![image](https://user-images.githubusercontent.com/116696484/206924333-1f1f9604-1044-4151-9562-37cad7151786.png)
 
 **2.2.5 Teorema de Thevenin**
 
+![image](https://user-images.githubusercontent.com/116696484/206926085-ac8b7a1e-34a4-44ba-9f26-d5d8981d342e.png)
 
 **2.2.6 Teorema de Norton**
 
+![image](https://user-images.githubusercontent.com/116696484/206926691-0d8434b3-7a3b-4ea0-a65c-d435de1ce3f9.png)
 
 **2.2.7 Teorema de transferencia de potencia máxima** 
 
+![image](https://user-images.githubusercontent.com/116696484/206927155-77ba5d0d-2540-4279-a102-9ab2b5bb4b30.png)
 
 **2.2.8 Conversiones delta a Y y Y a delta** 
+
+![image](https://user-images.githubusercontent.com/116696484/206927518-bf08196f-857f-4f5f-89f2-370d29dc58b1.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
