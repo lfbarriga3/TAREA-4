@@ -49,9 +49,11 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 
 **2.2.1 La fuente de voltaje de cd**
 
+![image](https://user-images.githubusercontent.com/116696484/206920438-7bf2c8c7-ca47-4dc3-bcac-2f6ba83c57d3.png)
 
 **2.2.2 La fuente de corriente**
 
+![image](https://user-images.githubusercontent.com/116696484/206920864-31f6360f-c21c-4d4a-a982-f7c0f0b75b05.png)
 
 **2.2.3 Conversiones de fuente**
 
