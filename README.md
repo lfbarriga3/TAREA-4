@@ -31,18 +31,19 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 
 **2.1.4 Divisores de voltaje con cargas resistivas**
 
+![image](https://user-images.githubusercontent.com/116696484/206918383-78a4057c-646c-4c84-ab78-be5d40867d35.png)
 
 **2.1.5 Efecto de carga de un voltímetro**
 
+![image](https://user-images.githubusercontent.com/116696484/206919028-cefec42f-79a2-4c2d-973b-e51f43f49871.png)
 
 **2.1.6 Redes en escalera**
 
+![image](https://user-images.githubusercontent.com/116696484/206919520-ddf09522-828a-4128-b958-428a4de23e8b.png)
 
 **2.1.7 El puente Wheatstone**
 
-
-**2.1.8 Localización de fallas**
-
+![image](https://user-images.githubusercontent.com/116696484/206919961-9fc8d861-1403-4338-8fbc-bf509c679921.png)
 
 **2.2 Capítulo 8: Teoremas de circuitos y conversiones**
 
