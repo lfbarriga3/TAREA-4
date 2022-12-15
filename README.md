@@ -81,251 +81,225 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
-**Capítulo 5: Circuitos en serie**
+**Capítulo 7: Circuitos en serie-paralelo**
 
-***1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.***
+***1. Visualice y trace las siguientes combinaciones en serie-paralelo: 
+(a) R1 en serie con la combinación en paralelo de R2 y R3 
+(b) R1 en paralelo con la combinación en serie de R2 y R3 
+(c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
+***
 
-![image](https://user-images.githubusercontent.com/116696484/203850147-040e55b6-4234-44bf-bff0-062263d32cd5.png)
+![image](https://user-images.githubusercontent.com/116696484/207749678-83b70fee-9fbc-4ffa-b3ce-b93680771d32.png)
 
-***3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.***
 
-![image](https://user-images.githubusercontent.com/116696484/203850209-a5d37186-1250-42fd-bfce-f1bbf671e199.png)
+***3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente..***
 
-***5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior***
+![image](https://user-images.githubusercontent.com/116696484/207749737-711c402d-a25d-4a27-8134-8d249da00d99.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203850678-b8cfafa1-d9a2-4cc9-8a23-a3a06bae7c96.png)
+***5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.***
 
-***7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?***
+![image](https://user-images.githubusercontent.com/116696484/207749814-13050e03-b657-4880-9430-5d24e397027a.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203850830-95e4e7a4-ccc2-47da-a205-ac9d613f33d3.png)
 
-***9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático***
+***7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta***
 
-![image](https://user-images.githubusercontent.com/116696484/203850878-e8896c99-d2d6-4b57-a021-f8cab2ec082f.png)
+![image](https://user-images.githubusercontent.com/116696484/207749907-56be1dc2-6618-488b-87f4-4adefa3882f6.png)
 
-***11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:***
 
-![image](https://user-images.githubusercontent.com/116696484/203850955-9f8666df-c08d-4051-a947-545c080a7a54.png)
+***9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a la fuente***
 
-***13. ¿Cuál es la resistencia total de doce resistores de 5.6 k ohmio dispuestos en serie?***
+![image](https://user-images.githubusercontent.com/116696484/207749969-9724835a-bcda-47ff-a4ca-79d5fe0a1aa5.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203851044-4cf78490-6131-40c3-81e5-2c1bd86dfbde.png)
 
-***15. Si en la figura 5-72 la resistencia total es de 17.4 k ohmio, ¿cuál es el valor de R5?***
+***11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje***
 
-![image](https://user-images.githubusercontent.com/116696484/203851120-625b2ebf-3397-4e93-bb1c-995326a06476.png)
+![image](https://user-images.githubusercontent.com/116696484/207750030-59f8e670-1228-40e9-81e0-7a4b61518cd7.png)
 
-***17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.***
+![image](https://user-images.githubusercontent.com/116696484/207750116-4c274e59-3286-4d71-b245-395fb94547e1.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203851189-1d923c98-241e-494a-bf9c-6f04f5f53ef8.png)
 
-***19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?***
+***13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66***
 
-![image](https://user-images.githubusercontent.com/116696484/203851248-23b15cb5-a37b-4e8b-93dd-8f55ea61533d.png)
+![image](https://user-images.githubusercontent.com/116696484/207750203-df17fe58-4fab-45f2-8b23-c9e50f6ab4fe.png)
 
 
-***21. Se conectan tres resistores de 470 ohmio en serie con una fuente de 48 V. ***
+***15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67***
 
-![image](https://user-images.githubusercontent.com/116696484/203851392-cf2d991d-6ab6-4e00-8242-ce5caa1c5c30.png)
+![image](https://user-images.githubusercontent.com/116696484/207750255-ee001e2c-ddd1-4a6a-a3e8-ab3965a3fd67.png)
 
-***23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?***
+***17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+Mida el voltaje en el punto A con respecto a tierra y el voltaje en el punto B con respecto a tierra. La diferencia es el voltaje de R2
+.***
 
-![image](https://user-images.githubusercontent.com/116696484/203851449-1312ab3b-61d2-4340-b4bf-905f4ad47ec7.png)
+![image](https://user-images.githubusercontent.com/116696484/207750339-c5da2032-ecd5-4558-8f6a-bfc92cdb5bb9.png)
 
-***25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.***
 
-![image](https://user-images.githubusercontent.com/116696484/203852135-13a2649b-d269-4a02-8a19-9e341edd7dca.png)
+***19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.***
 
-***27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?***
+![image](https://user-images.githubusercontent.com/116696484/207750406-21b3f181-71fe-4bf9-8d22-b7d0e6e74490.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203852237-697e9b2a-782e-4cf5-8b11-39cd4bda2ef5.png)
+***21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2 .***
 
+![image](https://user-images.githubusercontent.com/116696484/207750489-5ff3ff12-3aaf-4b25-8025-933ce1548b5f.png)
+![image](https://user-images.githubusercontent.com/116696484/207750516-2bbffa27-0b81-4716-96ad-37b76f82fa3b.png)
 
-***29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.***
 
-![image](https://user-images.githubusercontent.com/116696484/203852304-cf00125a-9e03-4ec7-b06e-ad8cf0fe606c.png)
+***23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB, BC y CD.***
 
-***31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?***
+![image](https://user-images.githubusercontent.com/116696484/207750555-b12eb270-40d5-4de7-9cf2-d52efec07ab2.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203852454-dc010da3-22ca-4ed0-83ed-06833e2c3959.png)
+***25. Un divisor de voltaje está compuesto por dos resistores de 56 kΩ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MΩ a la salida?***
 
-***33. En el circuito de la figura 5-81, determine la resistencia de R4.***
+![image](https://user-images.githubusercontent.com/116696484/207750598-86fa463f-14df-4a6f-af3e-655932348384.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203852504-fbbb7a28-6aea-4a50-8932-1b05fbba0cd3.png)
+***27. ¿Cuál de dos cargas, una de 10 kΩ y otra de 47 kΩ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?***
 
+Los 47 kΩ darán como resultado una disminución menor en el voltaje de salida porque tiene menos efecto en la resistencia del circuito que la resistencia más pequeña
 
-***35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.***
 
-![image](https://user-images.githubusercontent.com/116696484/203852598-094f0041-c57f-4829-8e44-816ac35071ab.png)
+***29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kΩ conectada entre A y B.***
 
-***37. La resistencia total de un circuito es de 560 ohmio. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 ohmio que forma parte de la resistencia total en serie?***
+![image](https://user-images.githubusercontent.com/116696484/207750723-dccbe046-d959-4b1c-bb42-e6b189151f3c.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203852858-e44f19de-9dc6-4886-90ea-6886090597b5.png)
+***31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.***
 
-***39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).***
+![image](https://user-images.githubusercontent.com/116696484/207750801-ab595b09-6421-4295-8278-ee26057e73e2.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203852930-205fdf00-8430-4fc4-83bb-ba6b9e060ab7.png)
+***33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos. (a) Encuentre VG y VS (b) Determine I1 , I2 , ID, e IS (c) Encuentre VDS y VDG***
 
-***41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica***
+![image](https://user-images.githubusercontent.com/116696484/207750859-f67941e9-ebe1-4f8c-b77d-39f5f3656fac.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203852980-6e5a5f88-b32c-4291-9e8f-bc70b3642241.png)
 
-***43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?***
 
-![image](https://user-images.githubusercontent.com/116696484/203853081-56e4a46d-750c-460e-aec8-11b6ca84e3f9.png)
+***35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito? ***
 
-***45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA***
+![image](https://user-images.githubusercontent.com/116696484/207750897-f513ffbb-905b-4ac2-bfea-fd9b45240fb2.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203853161-be84aa26-8031-4510-a888-86ba06e31527.png)
+***37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a). (a) ¿Qué intervalo se deberá utilizar? (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real***
 
-***47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43***
+![image](https://user-images.githubusercontent.com/116696484/207750942-62b3ce6f-28f4-4560-84ae-ef2062047e4a.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203853208-fafefb93-a093-4aec-b311-29e363a4f0ce.png)
+***39. Para el circuito mostrado en la figura 7-77, calcule: (a) La resistencia total entre las terminales de la fuente (b) La corriente total suministrada por la fuente (c) La corriente a través del resistor de 910 Ω (d) El voltaje desde el punto A hasta el punto B***
 
+![image](https://user-images.githubusercontent.com/116696484/207750998-08b542e9-6ff2-46e6-bb4e-3b9861733708.png)
 
-***49. Encuentre RT en la figura 5-89.***
+***43. Determine IT y VSALIDA en la figura 7-80***
 
-![image](https://user-images.githubusercontent.com/116696484/203853273-b734db02-5b32-4a6f-a929-fa479afaf8c5.png)
+![image](https://user-images.githubusercontent.com/116696484/207751081-568b07e0-52cb-42c2-a361-90535b2b1c4f.png)
 
+***45. Repita el problema 44 para las siguientes condiciones (a) SW3 y SW4 conectados a 112 V, SW1 y SW2 a tierra (b) SW3 y SW1 conectados a 112 V, SW2 y SW4 a tierra (c) Todos los interruptores conectados a 112 V***
 
-***51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.***
+![image](https://user-images.githubusercontent.com/116696484/207751187-7147106c-2edd-4644-aac0-24396737744f.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203853346-09a9da1d-0ba8-44e8-b4fd-b6671503c868.png)
+***47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ, a 120,060 Ω, y los medidores a compresión disminuyen su resistencia en 60 mΩ, a 119.940 Ω, como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?***
 
+![image](https://user-images.githubusercontent.com/116696484/207751239-bc1b3e36-5cc4-4a73-a791-8a2da4494fbe.png)
 
-***53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra***
+***49. ¿Es correcta la lectura del voltímetro de la figura 7-84?***
 
-![image](https://user-images.githubusercontent.com/116696484/203853473-ca140ce2-02a7-4d5f-a8aa-a43ad7898d92.png)
+![image](https://user-images.githubusercontent.com/116696484/207751290-6159c4db-bdfd-4891-bb8a-12bbe869b608.png)
 
+***51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.***
 
-***55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.***
+![image](https://user-images.githubusercontent.com/116696484/207751347-6eb08f88-ebc7-4b9c-9e1a-46a934ae3644.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203853656-2b4c68ed-0981-4cc1-8af7-59b60414aedb.png)
 
+***53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.***
 
-***57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.***
+![image](https://user-images.githubusercontent.com/116696484/207751403-e0b01792-df7b-450e-9d9f-d51f655e24f2.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203853910-8e55bb24-3975-4428-94d1-2c2a9bcd030a.png)
 
 
-***59. Se leen 15 k ohmio entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo***
+**2.2 Capítulo 8: Teoremas de circuitos y conversiones**
 
-Si se miden 15 kΩ entre las puntas 2 y 4 significa que están en corto circuito
+***1. Una fuente de voltaje tiene los valores VS = 300 V y RS = 50 . Conviértala en una fuente de corriente equivalente***
 
-**2.2 Capítulo 6: Circuitos en paralelo**
+![image](https://user-images.githubusercontent.com/116696484/207751834-3a1202ac-0c5e-4ece-a2e9-0b56df3fa6e1.png)
 
-***2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.***
+***3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?***
 
-![image](https://user-images.githubusercontent.com/116696484/203855980-906076d6-fd20-431a-ae26-b8f26ccc53d6.png)
+![image](https://user-images.githubusercontent.com/116696484/207751885-08632a82-4d74-4f02-b6da-f72522936883.png)
 
+***5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 k. Conviértala en una fuente de voltaje equivalente***
 
-***4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 ohmio? Hay cuatro resistores, todos de igual valor***
+![image](https://user-images.githubusercontent.com/116696484/207751943-63a39ca2-de59-4634-9343-2eb1a0c819ef.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203856031-698175a5-9b7a-4c33-8e92-eecff5f70620.png)
+***7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.***
 
-***6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?***
+![image](https://user-images.githubusercontent.com/116696484/207752006-7a7611ac-7c04-41c5-aa47-837c51d30f81.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203856072-241ed993-c6c8-46c5-93e0-f7412ea03a69.png)
+***9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70***
 
-***8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?***
+![image](https://user-images.githubusercontent.com/116696484/207752057-a044e080-cfae-42bb-9999-0fc5dcc3a3ad.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203856161-4d257ece-bd62-4de4-b70d-107950f168ae.png)
+![image](https://user-images.githubusercontent.com/116696484/207752075-f9ba647c-52da-4ce2-a7dd-b64d867aed88.png)
 
 
-***10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?***
+***11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 k, ¿cuál es el intervalo del voltaje de referencia?***
 
-![image](https://user-images.githubusercontent.com/116696484/203856209-8f8eb011-fbd3-435b-aa53-17cf9b411519.png)
+![image](https://user-images.githubusercontent.com/116696484/207752124-49de5ec0-8153-4995-a47a-67cbae2c0e67.png)
 
-***12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que  abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica***
 
-![image](https://user-images.githubusercontent.com/116696484/203856280-3a30cd7c-2b87-46cd-978f-d49b3d700a2f.png)
+***13. Determine el voltaje del punto A al punto B en la figura 8-73***
 
+![image](https://user-images.githubusercontent.com/116696484/207752205-8bc4b29d-2270-48da-a880-ffb825308c25.png)
 
-***14. Los siguientes resistores están conectados en paralelo: 1.0 M ohmio, 2.2 M ohmio, 5.6 ohmio, 12 M ohmio, y 22 M ohmio. Determine la resistencia total***
+![image](https://user-images.githubusercontent.com/116696484/207752248-59423851-d106-4d9c-b791-799f9a35886e.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203856547-b18cd051-76b7-432d-b10d-53cdc5d5e19d.png)
 
-***16. Calcule RT en cada uno de los circuitos de la figura 6-70.***
+***15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).***
 
-![image](https://user-images.githubusercontent.com/116696484/203856596-9e1b95c9-0de0-47a6-a153-d20cdbac7874.png)
+![image](https://user-images.githubusercontent.com/116696484/207752323-cb3e6156-def6-4fad-a84a-07f8e36c91a6.png)
 
+![image](https://user-images.githubusercontent.com/116696484/207752355-20c99aff-4646-4746-bcf0-4b8de3989d91.png)
 
-***18. Tres grupos, uno de cinco resistores de 470 ohmio, otro de diez resistores de 100 ohmio, y uno más de dos resistores de 100 ohmio están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos***
 
-![image](https://user-images.githubusercontent.com/116696484/203856804-f9796304-bf4c-4cae-9bf3-7f64982e0773.png)
+***17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.***
 
+![image](https://user-images.githubusercontent.com/116696484/207752400-1b09262a-f021-4136-9608-bc7529ec150a.png)
 
-***20. Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?***
 
-![image](https://user-images.githubusercontent.com/116696484/203856865-5f971c10-f5d4-42f6-8bbb-7db639b7d3ff.png)
+***19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79. ***
 
+![image](https://user-images.githubusercontent.com/116696484/207752472-92a8460e-ac0c-4a08-9237-b205585af89a.png)
 
-***22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?***
 
-![image](https://user-images.githubusercontent.com/116696484/203856890-4ff0ac66-1dd5-4e8b-9607-6a43f703c2cc.png)
+***21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.***
 
-***24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?***
+![image](https://user-images.githubusercontent.com/116696484/207752521-afcf4960-4dcc-4726-be57-4300958fef29.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203856956-e40590b4-b239-4d5e-a0f2-41f6beaa2128.png)
+***23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL***
 
+![image](https://user-images.githubusercontent.com/116696484/207752601-6d81f015-58a4-4931-839b-f8f5704bcf9d.png)
+![image](https://user-images.githubusercontent.com/116696484/207752641-f8fa790b-9fea-4178-ac80-edd99ce44667.png)
+![image](https://user-images.githubusercontent.com/116696484/207752677-cabea2b8-bc33-41f4-a0df-05cd0a0f51e4.png)
 
-***26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74***
 
-![image](https://user-images.githubusercontent.com/116696484/203856990-22c7b991-6eb9-4e58-b6c5-869a3998edde.png)
+***25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.***
 
+![image](https://user-images.githubusercontent.com/116696484/207752746-9aa6db13-8b46-4256-a0a6-79ba34761fac.png)
 
-***28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para ca da una de las posiciones de interruptor mostradas en la figura 6-76.***
 
-![image](https://user-images.githubusercontent.com/116696484/203857064-902bf9a1-1b18-4446-94c2-18a927cdfae5.png)
-![image](https://user-images.githubusercontent.com/116696484/203857087-19ca8fa9-ebe2-4f9d-b2f1-43afa4d2f2f6.png)
+***27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL***
 
+![image](https://user-images.githubusercontent.com/116696484/207754328-b0c53c46-7d86-4e40-a314-e29ed5900683.png)
 
-***30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.***
 
-![image](https://user-images.githubusercontent.com/116696484/203857126-cf7c7510-a4e1-4c4b-96a7-1a109eb55a14.png)
+***29. Aplique el teorema de Norton al circuito de la figura 8-84***
 
+![image](https://user-images.githubusercontent.com/116696484/207754387-f9be2170-6f32-4f42-9670-4ecfba2a374c.png)
 
-**32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?***
+**31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima***
 
-![image](https://user-images.githubusercontent.com/116696484/203857198-017a1233-9e49-4559-acac-0e153ecaebda.png)
+![image](https://user-images.githubusercontent.com/116696484/207754432-74af311b-7226-4bd2-aeab-49e7925e85fa.png)
 
+***33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?***
 
-***34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica***
+![image](https://user-images.githubusercontent.com/116696484/207754508-89f4258e-7e8a-4b70-9772-34b3e4674ff3.png)
 
-![image](https://user-images.githubusercontent.com/116696484/203857220-339065d2-1214-4777-97d4-9cd03e3f64fc.png)
-![image](https://user-images.githubusercontent.com/116696484/203857320-0cb8704b-5cb2-4fbf-8e97-09fa4d5bf0d1.png)
+***35. En la figura 8-89, convierta cada red Y en una red delta.***
 
-***36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 ohmio. 
-(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM= 50 ohmio)***
-
-![image](https://user-images.githubusercontent.com/116696484/203857302-ed76563f-0cb3-4fb5-a76e-a74c6d74e6c5.png)
-
-
-***38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?***
-
-P=5(250 mW)=1.25 W
-
-***40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total***
-
-![image](https://user-images.githubusercontent.com/116696484/203857414-294438ab-68d8-46ac-961e-e28e1444f845.png)
-
-***42. Cierto circuito en paralelo está compuesto por resistores de sólo 1 ⁄2 W. La resistencia total es de 1.0 k ohmio, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente: (a) El número de resistores, (b) El valor de cada resistor, (c) La corriente en cada rama ,(d) El voltaje aplicado***
-
-![image](https://user-images.githubusercontent.com/116696484/203857472-7d233e2a-f63f-49d4-a1a2-c95cec9b7669.png)
-
-
-***44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?***
-
-![image](https://user-images.githubusercontent.com/116696484/203857818-a398c1ee-badc-4cdb-a8e6-5cc3782cde96.png)
-
-***46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?***
-
-![image](https://user-images.githubusercontent.com/116696484/203857719-29b3c1b8-446d-424b-9562-84fdff9cd0c4.png)
-
-***48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: (a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4***
-
-![image](https://user-images.githubusercontent.com/116696484/203857844-e1473de1-ffb9-41aa-a89c-80f5c60ddd2d.png)
-
+![image](https://user-images.githubusercontent.com/116696484/207754572-1e424366-a137-478b-8162-38443308a60d.png)
 
 
 ### 4. VIDEO
