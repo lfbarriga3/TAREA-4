@@ -4,18 +4,20 @@
 
 **1.1 Objetivo General**
 
-Aprender a calcular la resistencia, voltaje y corriente tanto para circuitos en serie como para paralelos mediante la aplicación de la LEY DE OHM, divisores de voltaje y corriente, de tal manera que sea posible encontrar cualquier tipo de fallas en los circuitos eléctricos al momento de poner en práctica la teoría adquirida.
+Reconocer los métodos adecuados para la resolución de circuitos eléctricos, de tal manera que sea posible ejecutar una resolución más práctica mediante un análisis previo que nos permita identificar la mejor opción para resolver el circuito que nos presenten. 
 
 
 **1.2 Objetivos Específicos**
 
-Reconocer la manera en la cual se halla la resistencia total en un circuito serie. 
+Reconocer las relaciones en serie-paralelo presentes en un circuito eléctrico.
 
-Identificar circuitos en serie y paralelos 
+Determinar el efecto de carga que tiene un voltímetro al realizar las mediciones.
 
-Determinar la potencia de circuitos en serie y paralelo.
+Determinar la resistencia total, corrientes y caídas de voltaje en circuitos serie-paralelo.
 
-Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en serie como pararalelo.
+Aplicación de teoremas para la resolución de ejercicios.
+
+Ejecutar cambios DELTA a Y o Y a DELTA, de tal manera que sea posible la rosolución de ejercicios de una manera más sencilla.
 
 ### 2. MARCO TEÓRICO
 
