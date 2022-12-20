@@ -306,18 +306,20 @@ Los 47 kΩ darán como resultado una disminución menor en el voltaje de salida
 
 ### 4. VIDEO
 
-https://youtu.be/fWE2tF2Jrjc
+https://youtu.be/YkzKwq0gsKE
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se ha logrado diferenciar a un circuito serie de un paralelo, además se conocieron características de cada circuito, tales con que en el circuito en serie la corriente es constante y el voltaje se divide, mientras que en el circuito paralelo el voltaje se mantiene constante y la corriente se divide a través de los elementos que sean parte del circuito eléctrico.
+A lo largo del presente informe se ha logrado identificar los casos en los cuales es más conveniente aplicar teoremas para la resolución de circuitos, dado que de esta manera se puede resolver los ejercicios de manera más sencilla, para ello, es importante conocer las situaciones en las cuales es beneficioso aplicar dichos métodos.
 
-Adicionalmente se aprendió a identificar las fallas que puedan presentarse al momento de armar el circuito experimentalmente, de tal manera que con los cálculos sea posible solucionar cualquier tipo de falla que pueda aparecer en el circuito eléctrico.
+Adicionalmente se aprendió a identificar las fallas que puedan presentarse al momento de armar el circuito experimentalmente, de tal manera que con los cálculos sea posible dar un pronóstico de las posibles causas que estén generando dicha falla en el circuito.
 
-### 6. BIBLIOGRAFÍA 
+Se determinó que el teorema de superposición nos ayudará a abordar circuitos que tienen múltiples fuentes, los teoremas de Thevenin y de Norton en cambio ponen a nuestro alcance métodos apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis y por último el teorema de transferencia de potencia máxima que se utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
 
-Boylestad, R. L. (2004). Introducción al análisis de circuitos. Pearson Educación.
+### 6. BIBLIOGRAFÍA
 
-Dorf, R., & Svoboda, J. (2015). Circuitos eléctricos. Alpha Editorial.
+Campomanes, J. G. (1990). Circuitos eléctricos (Vol. 2). Universidad de Oviedo.
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
+
+Vásquez, J. R. G. (2008). Teoremas fundamentales de circuitos eléctricos (Doctoral dissertation, Universidad Tecnológica de Pereira. Facultad de Ingenierías Eléctrica, Electrónica, Física y Ciencias de la Computación. Ingeniería Eléctrica.).
